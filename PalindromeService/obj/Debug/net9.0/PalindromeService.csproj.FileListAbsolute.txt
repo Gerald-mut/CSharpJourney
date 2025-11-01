@@ -1,0 +1,5 @@
+C:\D\C#\learningc#\CSharpJourney\PalindromeService\obj\Debug\net9.0\PalindromeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\C#\learningc#\CSharpJourney\PalindromeService\obj\Debug\net9.0\PalindromeService.AssemblyInfoInputs.cache
+C:\D\C#\learningc#\CSharpJourney\PalindromeService\obj\Debug\net9.0\PalindromeService.AssemblyInfo.cs
+C:\D\C#\learningc#\CSharpJourney\PalindromeService\obj\Debug\net9.0\PalindromeService.csproj.CoreCompileInputs.cache
+C:\D\C#\learningc#\CSharpJourney\PalindromeService\obj\Debug\net9.0\PalindromeService.sourcelink.json
